@@ -1,8 +1,8 @@
 🌍 *[English](README.md)*
 
-# DevTools
+# Stackly
 
-[DevTools](https://DevToolset.net/) is an open-source database-free developer tools navigator
+[Stackly](https://DevToolset.net/) is an open-source database-free developer tools navigator
 
 ## Star History
 
@@ -11,7 +11,7 @@
 
 ## Preview
 
-![DevToolset](https://img.magicbox.tools/screenshot_img/devtoolset.png?version=081702)
+![Stackly](https://img.magicbox.tools/screenshot_img/devtoolset.png?version=081702)
 
 ## Features
 
@@ -39,9 +39,9 @@
 ---
 
 
-## Adding New Developer Tools to DevToolset
+## Adding New Developer Tools to Stackly
 
-Wanna add your site to DevToolset? 
+Wanna add your site to Stackly? 
 
 ### Two ways to submit your site
 1. Submit your site via [GitHub Issues](https://github.com/iamcorey/devtoolset/issues) for a free dofollow link.
@@ -68,7 +68,7 @@ Follow the format below:
 
 
 
-## Deploy your own DevToolset
+## Deploy your own Stackly
 
 ### Deploy on Vercel
 
@@ -89,7 +89,7 @@ Follow the format below:
 1. Clone the repository:
    ```
    git clone https://github.com/iAmCorey/devtoolset
-   cd devtoolset
+   cd Stackly
    ```
 
 2. Install dependencies:
@@ -124,7 +124,7 @@ Follow the format below:
    yarn run dev
    ```
 
-Visit `http://localhost:3000` to see your DevToolset instance running locally.
+Visit `http://localhost:3000` to see your DStackly instance running locally.
 
 ## Deployment
 
@@ -165,16 +165,16 @@ See [CHANGELOG.md](./CHANGELOG.md) for a detailed list of changes.
 
 ## Contributing
 
-We welcome contributions to DevToolset! Please read our [Contributing Guide](/data/md/add-new-developer-tools.md) for details on our code of conduct and the process for submitting pull requests.
+We welcome contributions to Stackly! Please read our [Contributing Guide](/data/md/add-new-developer-tools.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
-DevToolset is open-source software licensed under the [MIT license](./LICENSE).
+Stackly is open-source software licensed under the [MIT license](./LICENSE).
 
 
 ## Acknowledgements
 
-DevToolset is built with the following tools and libraries:
+Stackly is built with the following tools and libraries:
 - [GitBase](https://gitbase.app/) 
 - [Favicon Stealer](https://github.com/iAmCorey/favicon-stealer) 
 - [Next.js](https://nextjs.org/)
