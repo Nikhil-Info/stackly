@@ -2,11 +2,11 @@
 
 # DevToolset
 
-[DevToolset](https://DevToolset.net/) is an open-source database-free developer tools navigator
+[DevTools](https://DevToolset.net/) is an open-source database-free developer tools navigator
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=iamcorey/devtoolset&type=Date)](https://star-history.com/#iamcorey/devtoolset&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=iamcorey/devtoolset&type=Date)](https://www.star-history.com/#Nikhil-Info/devTools.git&Date)
 
 
 ## Preview
